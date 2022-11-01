@@ -1,0 +1,17 @@
+# ninja log v5
+0	175	6880372314768185	build.ninja	cc75cee356dcccfd
+6	334	6880370869086761	CMakeFiles/task2_c.dir/src/main.cpp.obj	8375d92ef2287d3c
+3	73	6880370866483614	CMakeFiles/task2_c.dir/src/iterator.cpp.obj	564eb3800732484d
+0	337	6880370869126764	CMakeFiles/task2_c.dir/src/queue.cpp.obj	94aef7342cda4458
+338	479	6880370870513718	task2_c.exe	f2d284a28c7f6bdc
+4	309	6880372403529633	CMakeFiles/task2_c.dir/src/main.cpp.obj	8375d92ef2287d3c
+309	413	6880372404529717	task2_c.exe	f2d284a28c7f6bdc
+3	74	6880382094762585	CMakeFiles/task2_c.dir/src/iterator.cpp.obj	564eb3800732484d
+9	323	6880382097246205	CMakeFiles/task2_c.dir/src/main.cpp.obj	8375d92ef2287d3c
+324	429	6880382098277686	task2_c.exe	f2d284a28c7f6bdc
+13	360	6880525093788607	CMakeFiles/task2_c.dir/src/iterator.cpp.obj	564eb3800732484d
+361	942	6880525099468836	task2_c.exe	f2d284a28c7f6bdc
+11	726	6880526405797122	CMakeFiles/task2_c.dir/src/main.cpp.obj	8375d92ef2287d3c
+727	1025	6880526408682189	task2_c.exe	f2d284a28c7f6bdc
+12	871	6880526790956988	CMakeFiles/task2_c.dir/src/main.cpp.obj	8375d92ef2287d3c
+872	1159	6880526793726663	task2_c.exe	f2d284a28c7f6bdc
